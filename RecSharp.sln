@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecSharp", "RecSharp\RecSharp.csproj", "{145E8F71-EDC4-488E-9105-5546F41A264E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecSharp.Example", "RecSharp.Example\RecSharp.Example.csproj", "{83272B17-5E6C-48B0-BB85-6FE63D57498B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145E8F71-EDC4-488E-9105-5546F41A264E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145E8F71-EDC4-488E-9105-5546F41A264E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145E8F71-EDC4-488E-9105-5546F41A264E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145E8F71-EDC4-488E-9105-5546F41A264E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83272B17-5E6C-48B0-BB85-6FE63D57498B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83272B17-5E6C-48B0-BB85-6FE63D57498B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83272B17-5E6C-48B0-BB85-6FE63D57498B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83272B17-5E6C-48B0-BB85-6FE63D57498B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31A452E-FD6C-409B-A452-3F8BCD68952F}
+	EndGlobalSection
+EndGlobal
